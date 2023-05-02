@@ -17,9 +17,9 @@
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=luana.martinscomin@gmail.com"/></a>
-
+ <a href="#" alt="Gmail">
+    <img src="Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=luana.martinscomin@gmail.com"/></a>
+  
   <a href="#" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-martins-comin/" /></a>
 
