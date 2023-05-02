@@ -24,6 +24,6 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-martins-comin/" /></a>
 
   <a href="#" alt="Discord">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=LINK-DO-SEU-DISCORD"/></a>
 
 </div>
