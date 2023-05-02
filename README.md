@@ -1,4 +1,4 @@
-# [LUANA MARTINS COMIN] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# LUANA MARTINS COMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 🔭 <strong>Um pouco sobre mim:</strong>
 
@@ -9,7 +9,7 @@
 
 **Contagem de visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{luanamcomin}/count.svg)
 
 ![luanamcomin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=true)
 
