@@ -1,19 +1,25 @@
-# LUANA MARTINS COMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Olá mundo, meu nome é Luana Martins Comin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 🔭 <strong>Um pouco sobre mim:</strong>
 
-- 💬 Pergunte-me sobre: <strong>Nerdisses 🤓</strong>
-- 🌱 Eu estou atualmente aprendendo <strong>Java Script | Python</strong>
+- 💬 Pergunte-me sobre: <strong>Nerdisses🤓 e músicas</strong>
 - ⚡ Curiosidade sobre mim: Jogadora de Magic aposentada!
-- 😀 <strong>Estudando</strong>
+- 😀 <strong>Estudando e aprendendo cada dia mais!</strong>
 
-**Contagem de visitas**
+*Contador De Visitas*
 
-![VisitorCount](https://profile-counter.glitch.me/{luanamcomin}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{Carolfernanda}/count.svg)
 
-![luanamcomin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=true)
+### 💻 Principais linguagens
 
-📫 Como entrar em contato comigo: 
+<div>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+</div>
+</br>
+
+### 📫 Como entrar em contato comigo: 
 
 <div>
  <a href="mailto:luana.martinscomin@gmail.com" alt="Gmail">
@@ -21,5 +27,4 @@
     
   <a href="https://www.linkedin.com/in/luana-martins-comin/" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"<a href="https://www.linkedin.com/in/luana-martins-comin/" /></a>
-  
 </div>
