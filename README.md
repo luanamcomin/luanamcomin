@@ -8,7 +8,7 @@
 
 *Contador De Visitas*
 
-![VisitorCount](https://profile-counter.glitch.me/{Carolfernanda}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{luanamcomin}/count.svg)
 
 ### 💻 Principais linguagens
 
