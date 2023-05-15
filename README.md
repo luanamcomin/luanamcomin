@@ -6,9 +6,6 @@
 - ⚡ Curiosidade sobre mim: Jogadora de Magic aposentada!
 - 😀 <strong>Estudando e aprendendo cada dia mais!</strong>
 
-*Contador De Visitas*
-
-![VisitorCount](https://profile-counter.glitch.me/{luanamcomin}/count.svg)
 
 ### 💻 Principais linguagens
 
