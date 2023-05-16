@@ -1,8 +1,8 @@
-# Olá mundo, meu nome é Luana Martins Comin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Olá mundo, sou a Luana M. Comin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 🔭 <strong>Um pouco sobre mim:</strong>
 
-- 💬 Pergunte-me sobre: <strong>Nerdisses🤓 e músicas</strong>
+- 💬 Pergunte-me sobre: <strong>Nerdisses 🤓 e músicas!</strong>
 - ⚡ Curiosidade sobre mim: Jogadora de Magic aposentada!
 - 😀 <strong>Estudando e aprendendo cada dia mais!</strong>
 
