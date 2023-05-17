@@ -1,4 +1,4 @@
-# Olá mundo, sou a Luana M. Comin <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Bem vindo(a) ao meu repositório!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 🔭 <strong>Um pouco sobre mim:</strong>
 
@@ -6,15 +6,12 @@
 - ⚡ Curiosidade sobre mim: Jogadora de Magic aposentada!
 - 😀 <strong>Estudando e aprendendo cada dia mais!</strong>
 
+##### Meu desenvolvimento:
 
-### 💻 Principais linguagens
+![](https://github-readme-stats.vercel.app/api?username=luanamcomin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=luanamcomin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
-<div>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-</div>
-</br>
 
 ### 📫 Como entrar em contato comigo: 
 
