@@ -1,6 +1,6 @@
-# Bem vindo(a) ao meu repositório!! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Olá! Me chamo Luana e bem vindo(a) ao meu repositório!! 🤓
 
-- 😀 <strong>Estudando e aprendendo cada dia mais!</strong>
+<img src="https://media.tenor.com/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" width="600px">
 
 ##### Meu desenvolvimento:
 
@@ -18,4 +18,12 @@
 </div>
 
 ### Minhas principais linguagens: 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+          
+          
+          
+          
 
