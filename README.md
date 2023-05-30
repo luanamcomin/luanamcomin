@@ -1,5 +1,5 @@
 # HELLO WORLD! 
-##Me chamo Luana e bem vindo(a) ao meu repositório!! 🤓
+## Me chamo Luana e bem vindo(a) ao meu repositório!! 🤓
 
 <img src="https://media.tenor.com/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" width="600px">
 
