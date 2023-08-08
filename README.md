@@ -3,7 +3,7 @@
 
 <img src="https://media.tenor.com/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" width="600px">
 
-### Meu desenvolvimento:
+### 📈 Meu desenvolvimento:
 
 ![](https://github-readme-stats.vercel.app/api?username=luanamcomin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=false)
