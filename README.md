@@ -1,7 +1,8 @@
 # HELLO WORLD! 
 ## Me chamo Luana e bem vindo(a) ao meu repositório!! 🤓
 
-<img src="https://media.tenor.com/4C_6k0nQYCsAAAAd/princess-mononoke-running.gif" width="600px">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTE3ZXU5dWllY29ycngyajhnZjI4NzAzdGxjbjVwaGlqcWR0Z29udSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BsJNWf7J70RJS/giphy.webp" width="800px" >
+
 
 ### 📈 Meu desenvolvimento:
 
