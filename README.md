@@ -5,9 +5,7 @@
 
 ### 📈 Meu desenvolvimento:
 
-![](https://github-readme-stats.vercel.app/api?username=luanamcomin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=false)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanamcomin&layout=compact&theme=vue-dark&hide_border=false)](https://github.com/luanamcomin/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=luanamcomin&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)![](https://github-readme-streak-stats.herokuapp.com/?user=luanamcomin&theme=vue-dark&hide_border=false)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanamcomin&layout=compact&theme=vue-dark&hide_border=false)](https://github.com/luanamcomin/github-readme-stats)
 
 ### 💻 Principais hard-skills: 
 
