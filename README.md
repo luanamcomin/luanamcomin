@@ -9,7 +9,7 @@
 
 ### 💻 Principais hard-skills: 
 
-[![My Skills Front-end](https://skillicons.dev/icons?i=js,ts,py,nodejs,angular,html,css,mysql,mongodb)](https://skillicons.dev) <br>
+[![My Skills Front-end](https://skillicons.dev/icons?i=js,ts,py,nodejs,html,css,mysql,mongodb)](https://skillicons.dev) <br>
 
 **Outros** <br>
 [![My Skills Front-end](https://skillicons.dev/icons?i=git,github,npm,vscode,figma)](https://skillicons.dev)
